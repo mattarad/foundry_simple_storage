@@ -1,3 +1,3 @@
-### Foundry Simple Storage Tutorial
+# Foundry Simple Storage Tutorial
 
-## Cyfrin.io course
+### Cyfrin.io course
